@@ -1,0 +1,26 @@
+{
+  "name": "phantomjs-render",
+  "version": "0.0.1",
+  "description": "render images of localhost website for various viewport sizes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericstiles/phantomjs-render.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "render"
+  ],
+  "author": "Eric Stiles <stiles.eric@gmail.com> (http://ericstiles.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericstiles/phantomjs-render/issues"
+  },
+  "homepage": "https://github.com/ericstiles/phantomjs-render",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
